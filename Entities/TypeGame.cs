@@ -4,6 +4,6 @@ namespace testJokenpo.Entities
 {
     public class TypeGame 
     {
-        public enum type {pedra, papel, tesoura};
+        public enum type {pedra, papel, tesoura, spock, lagarto};
     }
 }
